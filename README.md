@@ -54,57 +54,62 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ## My DevOps Stack
 
-*Badges unlock as I complete each week. To unlock: remove the `<!--` and `-->` around the badge line.*
+*Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-**Sample — this is what your stack looks like as it grows:**
+*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
 
-![AI](https://img.shields.io/badge/Agentic_AI-Claude_Code-purple?style=flat-square&logo=anthropic)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=flat-square&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes)
+**Preview — what your full stack looks like:**
+
+[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-bash-scripting/)[![Week 05](./badges/week-05.svg)](./week-05-github/)[![Week 07](./badges/week-07.svg)](./week-07-aws-cloud/)[![Week 12](./badges/week-12.svg)](./week-12-docker/)[![Week 13](./badges/week-13.svg)](./week-13-kubernetes/)
 
 ---
 
 **Your stack (uncomment each badge as you earn it):**
 
+<!-- Week 00 → Internet & Networking Basics -->
+<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+
+<!-- Week 01 → Success Mindset -->
+<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+
 <!-- Week 02 → Agentic AI with Claude Code -->
-<!-- ![AI](https://img.shields.io/badge/Agentic_AI-Claude_Code-purple?style=flat-square&logo=anthropic) -->
+<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
 
 <!-- Week 03 → Linux for DevOps -->
-<!-- ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux) -->
+<!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
 
 <!-- Week 04 → Bash Scripting -->
-<!-- ![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=flat-square&logo=gnubash) -->
+<!-- [![Week 04 – Bash](./badges/week-04.svg)](./week-04-bash-scripting/) -->
 
 <!-- Week 05 → Git & GitHub -->
-<!-- ![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github) -->
+<!-- [![Week 05 – Git](./badges/week-05.svg)](./week-05-github/) -->
 
 <!-- Week 06 → DevOps Lifecycle & Agile -->
-<!-- ![Agile](https://img.shields.io/badge/Agile-Jira-blue?style=flat-square&logo=jira) -->
+<!-- [![Week 06 – Agile](./badges/week-06.svg)](./week-06-devops-lifecycle/) -->
 
 <!-- Week 07 → AWS Cloud -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws) -->
+<!-- [![Week 07 – AWS](./badges/week-07.svg)](./week-07-aws-cloud/) -->
 
 <!-- Week 08 → Azure Cloud -->
-<!-- ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure) -->
+<!-- [![Week 08 – Azure](./badges/week-08.svg)](./week-08-azure-cloud/) -->
 
 <!-- Week 09 → Terraform -->
-<!-- ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform) -->
+<!-- [![Week 09 – Terraform](./badges/week-09.svg)](./week-09-terraform/) -->
 
 <!-- Week 10 → Ansible -->
-<!-- ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat-square&logo=ansible) -->
+<!-- [![Week 10 – Ansible](./badges/week-10.svg)](./week-10-ansible/) -->
 
 <!-- Week 11 → Azure DevOps CI/CD -->
-<!-- ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops) -->
+<!-- [![Week 11 – CI/CD](./badges/week-11.svg)](./week-11-azure-devops/) -->
 
 <!-- Week 12 → Docker -->
-<!-- ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker) -->
+<!-- [![Week 12 – Docker](./badges/week-12.svg)](./week-12-docker/) -->
 
 <!-- Week 13 → Kubernetes -->
-<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes) -->
+<!-- [![Week 13 – K8s](./badges/week-13.svg)](./week-13-kubernetes/) -->
+
+<!-- Week 14 → Final Project / Capstone -->
+<!-- [![Week 14 – Capstone](./badges/week-14.svg)](./week-14-final-project/) -->
 
 *Complete a week → uncomment the badge → watch your stack grow.*
 
