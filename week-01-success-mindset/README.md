@@ -33,9 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+## Answer
 
----
+I really believe that if one is prepared to remain committed, work diligently, and never stop learning, there is no height that is actually unachievable. Many people around me feel that success is primarily about chance, connections, or being born into the proper circumstances. While those things can make the road smoother, I don't think they influence the final conclusion. Because they didn't give up, I've witnessed folks from ordinary backgrounds accomplish incredible things. Persistence, self-control, and the will to get better every day are, in my opinion, considerably more important than one's starting point. Even if the journey may be difficult and progress may be sluggish, persistent work eventually opens doors that previously appeared unattainable.
+
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -53,13 +54,13 @@ Write each truth in this format:
 
 ## Truth #1
 
-### Truth
+Consistent effort produces better results than relying on motivation alone.
 
 Add your answer here...
 
 ### Evidence from my life
 
-Add your answer here...
+While learning Cloud Engineering, I noticed that studying a little every day helped me understand concepts better than waiting until I felt motivated. Even on days when I wasn't in the mood, showing up consistently helped me complete projects and build my confidence over time.
 
 ---
 
@@ -67,23 +68,22 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+The more questions I ask, the faster I learn.
 
 ### Evidence from my life
 
-Add your answer here...
-
+I used to spend hours trying to solve problems on my own. Once I started asking questions, reading documentation, and seeking feedback whenever I got stuck, I understood concepts much faster and made fewer repeated mistakes.
 ---
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Preparation increases confidence and improves performance.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I prepared thoroughly before an interview, presentation, or technical task, I felt more confident and performed better. On the few occasions I didn't prepare enough, I struggled to explain my ideas clearly and noticed the difference in my results.
 
 ---
 
@@ -135,13 +135,29 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+From Cloud Engineering Student to DevOps Leader: The Journey of Ebenezer Ndubuisi
+
+
+A few years ago, Ebenezer Ndubuisi would have appeared to someone who was merely interested in cloud computing and committed to using technology to improve the future. That curiosity has now developed into a profession that is the result of years of perseverance, education, and real-world experience. One project at a time, Ebenezer developed his profession. Instead of hurrying to earn qualifications, he spent most of his time working on real-world initiatives that forced him to think differently. He established secure AWS environments, automated infrastructure with Terraform, deployed apps using Docker and Kubernetes, and created CI/CD pipelines that made software delivery faster and more dependable.
+
+Each assignment he finished served as more proof that he understood the work beyond theory. Over time, his GitHub profile evolved from a location to save code to a log of his development. Recruiters could readily see how his skills evolved over time because each repository highlighted not only the finished solution but also the lessons he learnt while constructing it. Along the process, he also received industry qualifications that strengthened the practical knowledge he had already gained. These certificates supported his practical experience and showed his dedication to lifelong learning in DevOps and cloud computing.
+
+Another significant aspect of his path was writing. He wrote posts on Medium and LinkedIn about the difficulties he encountered as a novice, the errors he made, and the fixes that ultimately worked. Because those pieces were written by someone who has recently traveled the same route, many newcomers found them to be simple to follow. He concentrated on making technical ideas understandable and useful rather than portraying himself as an authority. His writings eventually attracted a larger readership and developed into helpful tools for aspiring cloud engineers starting their own educational journeys and looking for real-world advice from someone with comparable expertise.
+
+He had the chance to collaborate with seasoned engineers on production systems in his first DevOps position. He helped create cloud environments that were simpler to administer, automated tedious processes, and improved infrastructure. Over time, he led minor technical initiatives and became someone coworkers depended on if complex deployment issues emerged. His colleagues trusted him since he was willing to share his skills and learn from more experienced engineers. As his career developed, each project enhanced his confidence and technical proficiency, enabling him to assume greater responsibilities.
+
+Outside his day job, Ebenezer never ceased giving back. He assessed GitHub projects for novices, answered questions in online communities, contributed to open-source projects wherever possible, and supported others who were attempting to break into technology. He was remembered by many who knew him as someone who patiently and simply communicated complex ideas. His willingness to support others built lasting relationships inside the IT industry and helped many aspiring engineers overcome challenges they faced at the beginning of their careers. Giving back became a significant aspect of his professional identity.
+
+In retrospect, there was never a single certification or successful initiative that made the most difference. It was the practice of regularly attending, picking up lessons from errors, and getting better every day. His ultimate engineering career was shaped by the cumulative effect of those tiny efforts.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra (https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this Discord community (https://discord.pravinmishra.com/).
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+[Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c)
 
 ---
 
@@ -171,11 +187,11 @@ If Yes:
 
 **What emotion did you feel?** (minimum 50–100 words)
 
-## Answer
+There have been moments when I took shortcuts instead of putting in my best effort. It wasn't anything illegal, but I knew I could have handled the situation better. At first, it felt like I had saved time, but that feeling didn't last. I ended up feeling guilty because I knew the result didn't truly reflect what I was capable of. I also felt stressed, worrying that someone might notice I hadn't done my best. Looking back, I realized that shortcuts often create more problems than they solve. Since then, I've tried to be more honest with myself and focus on doing quality work, even when it takes more time.
 
 Add your answer here...
 
----
+Yes
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -199,17 +215,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
-
+1.The Subtle Art of Not Giving a Fck* — Mark Manson
+2.The Psychology of Money — Morgan Housel
+3.Atomic Habits — James Clear
+4.The 5 AM Club — Robin Sharma
+5.Deep Work — Cal Newport
+6.The 7 Habits of Highly Effective People — Stephen R. Covey
+7.Think Again — Adam Grant
+8.The Lean Startup — Eric Ries
+9.The One Thing — Gary Keller & Jay Papasan
+10.The First 90 Days — Michael D. Watkins
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
@@ -237,16 +252,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Hours spent learning new technical skills each week
+* GitHub commits and completed projects
+* Certifications and courses completed
+* LinkedIn posts or technical articles published
+* Daily exercise and physical activity
+* Sleep duration and overall energy levels
+* Deep work sessions without distractions
+* Personal spending and monthly savings
+* Time spent on social media
+* Progress toward career and personal goals
 
 ---
 
@@ -270,11 +285,10 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
 
----
+Yes. Writing everything down helped me organize my thoughts and reduced the feeling of being overwhelmed. It gave me a clearer picture of what needed immediate attention and what could wait. I also noticed a few tasks I had been postponing for no good reason.
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -290,21 +304,23 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
----
+Monday–Friday: 2 hours of focused DevOps/Cloud learning and hands-on practice
+Tuesday & Thursday: Review documentation and improve existing projects
+Wednesday: Write or update technical notes and GitHub README files
+Saturday: Complete internship assignments, build projects, and attend community sessions
+Sunday: Weekly review, plan the coming week, and rest
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday to Friday: 7:00 PM – 9:00 PM
+
+Saturday: 10:00 AM – 1:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
-
----
+6 focused sessions per week
 
 ### Distraction Rules
 
@@ -316,36 +332,39 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
----
+Keep my phone on Do Not Disturb during study sessions.
+Only check social media after completing my planned tasks.
+Study with only the tabs needed for learning open.
+Keep my workspace clean before starting.
+Use the Pomodoro technique to stay focused.
+Avoid multitasking while studying.
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I learned that I make the most progress when I focus on consistent daily effort instead of trying to do everything at once. Small improvements every day build confidence and produce better results over time.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes spend too much time trying to make everything perfect before moving on. This slows my progress and makes me overthink simple tasks.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday from 7:00 PM to 9:00 PM, I will spend two uninterrupted hours learning, building projects, or completing internship tasks before using social media or watching videos.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+[Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: [Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
+- Blog / Medium : [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c?sharedUserId=uchennaebenezer01) 
 
 ---
 
