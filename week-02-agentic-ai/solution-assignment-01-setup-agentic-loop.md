@@ -20,13 +20,14 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-Add your screenshot here.
+![claude version](./screenshots/assignment-01/S1.PNG)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+![claude code](./screenshots/assignment-01/S2.PNG)
+
 
 ---
 
@@ -40,7 +41,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+![claude version](./screenshots/assignment-01/S3.PNG)
 
 ---
 
@@ -54,13 +55,22 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+![claude version](./screenshots/assignment-01/S4.1.PNG)
+
+![claude version](./screenshots/assignment-01/S4.2.PNG)
+
+![claude version](./screenshots/assignment-01/S4.3.PNG)
+
+![claude version](./screenshots/assignment-01/S4.4.PNG)
+
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
+![claude version](./screenshots/assignment-01/S5.1.PNG)
+
+
 
 ---
 
@@ -77,18 +87,18 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/UchennaEbenezer/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [✅] Claude Code CLI installed successfully
+- [✅] Claude Code authenticated successfully
+- [✅] Repository forked successfully
+- [✅] Repository cloned and opened in VS Code
+- [✅] All required screenshots added
+- [✅] GitHub repository URL provided
 
 ---
 
@@ -102,14 +112,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._

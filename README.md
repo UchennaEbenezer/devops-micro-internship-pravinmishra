@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -130,10 +130,10 @@ Week 01 → Success Mindset
 ## Weekly Progress
 
 | Week | Topic                        | Status         | Assignment   | LinkedIn Post                                                                                                                                                                                                     | Blog Post                                                                                                                           |
-| ---- | ---------------------------- | -------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---------------------------- | -------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 00   | Internet & Networking Basics | ✅ Completed   | ✅ Completed | —                                                                                                                                                                                                                 | —                                                                                                                                   |
 | 01   | Success Mindset              | ✅ Completed   | ✅ Completed | https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU | https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c |
-| 02   | Agentic AI with Claude Code  | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
+| 02   | Agentic AI with Claude Code  | ✅ Completed   | ✅ Completed | https://medium.com/@uchennaebenezer01/reflection-week-2-learning-to-think-beyond-prompts-b365c180a1b8                                                                                                             | https://lnkd.in/p/enX4W2yg                                                                                                          | —   |
 | 03   | Linux for DevOps             | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
 | 04   | Bash Scripting               | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
 | 05   | Git & GitHub                 | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
