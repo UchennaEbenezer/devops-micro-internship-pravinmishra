@@ -20,20 +20,28 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An individual or business can access AWS cloud services by creating an AWS account, which is a unique identity. To create and manage cloud resources like EC2 instances, S3 buckets, and ECR repositories, as well as to track consumption and handle billing for whatever is utilized, it provides users with a login and billing profile.
+Currently, a DMI student's understanding of Cloud Computing and DevOps requires an AWS account. The practical experience obtained from working directly with real cloud infrastructure,the same environment utilized in a true DevOps role cannot be replaced by tutorials and documentation, even though they offer solid core knowledge.
+With a Free Tier account, students can develop practical skills by developing real-world solutions such as setting up virtual machines, deploying websites, utilizing S3 buckets and protocols for security.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+More than 100 cloud products are accessible to new users through the AWS Free Tier. It offers a Free Plan that lasts for six months or until you use up all of your $200 in initial credits, whichever comes first, as well as Always Free services that never expire.
+There are three different kinds of offers under the AWS Free Tier:
+Six-month free plan: New customers can earn an additional $100 by exploring some foundational services after receiving $100 in credits upon signing up. This creates a risk-free learning environment because your account is suspended rather than unexpectedly charged if you run out of credits or hit the six-month mark.
+Always Free (No Expiration): Some services have monthly usage caps that are set in stone. For instance, you receive 25GB of storage on Amazon DynamoDB and 1,000,000 free queries on AWS Lambda each month.
+Brief Trials: Certain free trials are available for specialized software or services from the AWS Marketplace; these trials often last between 30 and 90 days, depending on the offering.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
-
+AWS Lambda: 400,000 GB-seconds of compute time per month and one million free compute queries.
+With 25 GB of storage and 25 read capacity units (RCUs) and 25 write capacity units (WCUs), Amazon DynamoDB can process up to 200 million requests per month.
+Amazon CloudFront: 10 million HTTP or HTTPS queries and 1 TB of data transmission every month.
+There is also a legacy 12-Month Free Tier for accounts created prior to July 15, 2025, which provides 750 hours of Amazon EC2 t2.micro/t3.micro instances per month. For those infrastructural resources, newer customers use a New Credit Plan that provides $200 in temporary credits.
 ---
 
 # Task 2 — Create AWS Free Tier Account
@@ -56,9 +64,9 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
 
----
+![aws](./screenshots/assignment-01/S1.PNG)
+
 
 # Submission Instructions
 
@@ -70,11 +78,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [✅] Task 1 answers written in own words
+- [✅] AWS Free Tier account created successfully
+- [✅] Signed in to AWS Management Console
+- [✅] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [✅] All required screenshots added to repository
 
 ---
 
