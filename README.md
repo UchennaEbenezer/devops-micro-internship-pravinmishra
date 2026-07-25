@@ -130,7 +130,7 @@ Week 04 → Git & GitHub
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | 🔄 In Progress | ⏳ Pending |-| - |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |[Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi-a5a534383_devops-micro-internship-dmi-by-pravin-activity-7430653572142448640-h74b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)| [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-curiosity-to-cloud-my-first-steps-into-devops-engineering-3a0e8311f2a4) |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | [Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c) |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [Ebenezer-Ndubuisi](https://lnkd.in/p/enX4W2yg) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/reflection-week-2-learning-to-think-beyond-prompts-b365c180a1b8) |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
