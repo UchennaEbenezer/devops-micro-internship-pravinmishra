@@ -82,7 +82,7 @@ Add your screenshot here.
 
 Paste your GitHub profile URL here:
 
-`Add your URL here`
+`https://github.com/UchennaEbenezer`
 
 ---
 
