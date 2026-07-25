@@ -34,7 +34,7 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder is a hidden directory that stores all the metadata, history, and configuration settings for a Git project; it matters because it contains your entire commit history, enables version control, and allows you to undo changes or work offline.
 
 ---
 

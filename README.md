@@ -113,7 +113,6 @@ Week 02 → Agentic AI with Claude Code
 
 ## Program Overview
 
-<<<<<<< HEAD
 | Phase       | Weeks   | Focus                              |
 | ----------- | ------- | ---------------------------------- |
 | Foundation  | 00 – 02 | Networking, Mindset, Agentic AI    |
@@ -122,22 +121,11 @@ Week 02 → Agentic AI with Claude Code
 | Automation  | 09 – 11 | Terraform, Ansible, CI/CD          |
 | Containers  | 12 – 13 | Docker & Kubernetes                |
 | Capstone    | 14      | Final Project                      |
-=======
-| Phase | Weeks | Focus |
-|-------|-------|-------|
-| Foundation | 00 – 02 | Networking, Mindset, Agentic AI |
-| Core DevOps | 03 – 05 | Linux & Bash, Git, DevOps Lifecycle |
-| Cloud | 06 – 07 | AWS & Azure Real Deployments |
-| Automation | 08 – 10 | Terraform, Ansible, CI/CD |
-| Containers | 11 – 12 | Docker & Kubernetes |
-| Capstone | 13 | Final Project |
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1
 
 ---
 
 ## Weekly Progress
 
-<<<<<<< HEAD
 | Week | Topic                        | Status         | Assignment   | LinkedIn Post                                                                                                                                                                                                     | Blog Post                                                                                                                           |
 | ---- | ---------------------------- | -------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 00   | Internet & Networking Basics | ✅ Completed   | ✅ Completed | —                                                                                                                                                                                                                 | —                                                                                                                                   |
@@ -155,24 +143,6 @@ Week 02 → Agentic AI with Claude Code
 | 12   | Docker                       | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
 | 13   | Kubernetes                   | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
 | 14   | Final Project                | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-=======
-| Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
-|------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
@@ -181,11 +151,7 @@ Week 02 → Agentic AI with Claude Code
 
 ## Certificate of Completion
 
-<<<<<<< HEAD
 _Awarded upon completing Week 14 — Final Project._
-=======
-*Awarded upon completing Week 13 — Final Project.*
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1
 
 <!-- Drop your certificate image here -->
 
