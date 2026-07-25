@@ -12,13 +12,13 @@
 
 ## About Me
 
-|                |                                                                     |
-| -------------- | ------------------------------------------------------------------- |
-| **Name**       | Ebenezer Ndubuisi                                                   |
-| **LinkedIn**   | [ebenezer-ndubuisi](https://www.linkedin.com/in/ebenezer-ndubuisi/) |
-| **Location**   | Port-Harcourt, Nigeria                                              |
-| **Background** | Cloud, DevOps & AI Consultant                                       |
-| **Goal**       | Become a Senior Cloud Engineer                                      |
+| | |
+|---|---|
+| **Name** | Pravin Mishra |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
+| **Location** | Helsinki, Finland |
+| **Background** | Cloud, DevOps & AI Consultant |
+| **Goal** | Train 10,000+ DevOps professionals |
 
 ---
 
@@ -41,46 +41,46 @@ This is not a course. It is an internship-style program — real deployments, re
 
 <!-- If you were named Champion of the Week, add the badge below and link to your LinkedIn post -->
 
-| Week                  | Award                            | Post                        |
-| --------------------- | -------------------------------- | --------------------------- |
+| Week | Award | Post |
+|------|-------|------|
 | <!-- e.g. Week 03 --> | <!-- 🏆 Champion of the Week --> | <!-- [LinkedIn Post](#) --> |
 
 ### Leaderboard
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **#\_\_** <!-- Update this each week -->
+> 🥇 Cohort 3 Rank: **#__** <!-- Update this each week -->
 
 ---
 
 ## My DevOps Stack
 
-_Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below._
+*Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-_Share your stack:_ `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
-[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
+[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-git-and-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
 
 ---
 
-**Your stack:**
+**Your stack (uncomment each badge as you earn it):**
 
-Week 00 → Internet & Networking Basics
-[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
+<!-- Week 00 → Internet & Networking Basics -->
+<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
 
-Week 01 → Success Mindset
-[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
+<!-- Week 01 → Success Mindset -->
+<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
 
-Week 02 → Agentic AI with Claude Code
-[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
+<!-- Week 02 → Agentic AI with Claude Code -->
+<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
 
 <!-- Week 03 → Linux & Bash for DevOps -->
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
 
 <!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
+<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -109,20 +109,12 @@ Week 02 → Agentic AI with Claude Code
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
+*Complete a week → uncomment the badge → watch your stack grow.*
+
 ---
 
 ## Program Overview
 
-<<<<<<< HEAD
-| Phase       | Weeks   | Focus                              |
-| ----------- | ------- | ---------------------------------- |
-| Foundation  | 00 – 02 | Networking, Mindset, Agentic AI    |
-| Core DevOps | 03 – 06 | Linux, Bash, Git, DevOps Lifecycle |
-| Cloud       | 07 – 08 | AWS & Azure Real Deployments       |
-| Automation  | 09 – 11 | Terraform, Ansible, CI/CD          |
-| Containers  | 12 – 13 | Docker & Kubernetes                |
-| Capstone    | 14      | Final Project                      |
-=======
 | Phase | Weeks | Focus |
 |-------|-------|-------|
 | Foundation | 00 – 02 | Networking, Mindset, Agentic AI |
@@ -131,31 +123,11 @@ Week 02 → Agentic AI with Claude Code
 | Automation | 08 – 10 | Terraform, Ansible, CI/CD |
 | Containers | 11 – 12 | Docker & Kubernetes |
 | Capstone | 13 | Final Project |
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1
 
 ---
 
 ## Weekly Progress
 
-<<<<<<< HEAD
-| Week | Topic                        | Status         | Assignment   | LinkedIn Post                                                                                                                                                                                                     | Blog Post                                                                                                                           |
-| ---- | ---------------------------- | -------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 00   | Internet & Networking Basics | ✅ Completed   | ✅ Completed | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 01   | Success Mindset              | ✅ Completed   | ✅ Completed | https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU | https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c |
-| 02   | Agentic AI with Claude Code  | ✅ Completed   | ✅ Completed | https://medium.com/@uchennaebenezer01/reflection-week-2-learning-to-think-beyond-prompts-b365c180a1b8                                                                                                             | https://lnkd.in/p/enX4W2yg                                                                                                          | —   |
-| 03   | Linux for DevOps             | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 04   | Bash Scripting               | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 05   | Git & GitHub                 | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 06   | DevOps Lifecycle & Agile     | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 07   | AWS Cloud                    | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 08   | Azure Cloud                  | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 09   | Terraform                    | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 10   | Ansible                      | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 11   | Azure DevOps (CI/CD)         | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 12   | Docker                       | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 13   | Kubernetes                   | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-| 14   | Final Project                | ⬜ Not Started | ⏳ Pending   | —                                                                                                                                                                                                                 | —                                                                                                                                   |
-=======
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
@@ -172,7 +144,6 @@ Week 02 → Agentic AI with Claude Code
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
@@ -181,11 +152,7 @@ Week 02 → Agentic AI with Claude Code
 
 ## Certificate of Completion
 
-<<<<<<< HEAD
-_Awarded upon completing Week 14 — Final Project._
-=======
 *Awarded upon completing Week 13 — Final Project.*
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1
 
 <!-- Drop your certificate image here -->
 
