@@ -33,8 +33,6 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-## Answer
-
 I really believe that if one is prepared to remain committed, work diligently, and never stop learning, there is no height that is actually unachievable. Many people around me feel that success is primarily about chance, connections, or being born into the proper circumstances. While those things can make the road smoother, I don't think they influence the final conclusion. Because they didn't give up, I've witnessed folks from ordinary backgrounds accomplish incredible things. Persistence, self-control, and the will to get better every day are, in my opinion, considerably more important than one's starting point. Even if the journey may be difficult and progress may be sluggish, persistent work eventually opens doors that previously appeared unattainable.
 
 
@@ -56,7 +54,6 @@ Write each truth in this format:
 
 Consistent effort produces better results than relying on motivation alone.
 
-Add your answer here...
 
 ### Evidence from my life
 
@@ -73,6 +70,7 @@ The more questions I ask, the faster I learn.
 ### Evidence from my life
 
 I used to spend hours trying to solve problems on my own. Once I started asking questions, reading documentation, and seeking feedback whenever I got stuck, I understood concepts much faster and made fewer repeated mistakes.
+
 ---
 
 ## Truth #3
@@ -157,11 +155,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 Paste your link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
 [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c)
-=======
-`Add your URL here`
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1:week-01-success-mindset/assignment-01-mindset-os.md
 
 ---
 
@@ -190,12 +184,10 @@ This is about self-awareness, not judgment.
 If Yes:
 
 **What emotion did you feel?** (minimum 50–100 words)
+Yes
 
 There have been moments when I took shortcuts instead of putting in my best effort. It wasn't anything illegal, but I knew I could have handled the situation better. At first, it felt like I had saved time, but that feeling didn't last. I ended up feeling guilty because I knew the result didn't truly reflect what I was capable of. I also felt stressed, worrying that someone might notice I hadn't done my best. Looking back, I realized that shortcuts often create more problems than they solve. Since then, I've tried to be more honest with myself and focus on doing quality work, even when it takes more time.
 
-Add your answer here...
-
-Yes
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -361,11 +353,7 @@ Every weekday from 7:00 PM to 9:00 PM, I will spend two uninterrupted hours lear
 
 Paste your LinkedIn post link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
 [Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
-=======
-`Add your URL here`
->>>>>>> 1254de0534a01527b6090add41ac75486d9778b1:week-01-success-mindset/assignment-01-mindset-os.md
 
 ---
 
