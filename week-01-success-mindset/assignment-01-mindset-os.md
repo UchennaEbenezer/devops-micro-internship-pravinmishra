@@ -212,15 +212,25 @@ Choose books that improve:
 ## Book List
 
 1.The Subtle Art of Not Giving a Fck* — Mark Manson
+
 2.The Psychology of Money — Morgan Housel
+
 3.Atomic Habits — James Clear
+
 4.The 5 AM Club — Robin Sharma
+
 5.Deep Work — Cal Newport
+
 6.The 7 Habits of Highly Effective People — Stephen R. Covey
+
 7.Think Again — Adam Grant
+
 8.The Lean Startup — Eric Ries
+
 9.The One Thing — Gary Keller & Jay Papasan
+
 10.The First 90 Days — Michael D. Watkins
+
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
