@@ -25,16 +25,13 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+![Task 1 Screenshot](screenshots/S1.PNG)
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that Chatgpt can actually help me in my learning
 
 ---
 
@@ -59,7 +56,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads can be accessed globally because the internet uses **packet switching**, which breaks website data into small packets that travel independently across different networks before being reassembled on the user's device. The bookstore's server in Finland has a unique **IP address**, allowing computers worldwide to locate it. The **TCP/IP** protocol suite ensures these packets are delivered accurately, in the correct order, and without data loss. When a user enters the EpicReads web address in a browser, **HTTP** or the more secure **HTTPS** protocol is used to request and receive the website's pages. HTTPS also encrypts the communication, protecting sensitive information such as login credentials and payment details. Together, these technologies make EpicReads fast, reliable, and securely accessible from anywhere in the world.
 
 ---
 
@@ -91,10 +88,12 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Task 1 Screenshot](screenshots/S2.1.PNG)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
+![Task 1 Screenshot](screenshots/S2.2.PNG)
+
+
 
 ---
 
@@ -102,18 +101,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Django
+* Node.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* Redis
+* PostgreSQL
 
 ---
 
@@ -142,7 +141,17 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) explained
+DNS works like the internet’s directory. Rather than memorizing a long IP address such as 52.172.142.222, users can simply type an easy name like epicreads.com. When that domain name is entered into a browser, DNS converts it into the corresponding IP address of the server hosting the website. This translation allows the browser to locate and connect to the correct server quickly and display the site.
+DNS Record Type Needed
+My friend should use an A record (Address record) because it directly connects a domain name(epicreads.com) to the IP address 52.172.142.222.
+
+Why should an A record be used?
+It directly maps a domain name to an IPv4 address, making it the most straightforward way to connect a website to a server.
+It allows browsers to resolve the domain quickly without needing additional lookups or redirections.
+It is widely supported and universally recognized by all DNS servers and web browsers.
+It provides full control over where the domain points, which is useful for hosting websites on custom servers or cloud instances.
+
 
 ---
 
@@ -178,7 +187,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/S3.PNG)
+
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,7 +228,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/ebenezer-ndubuisi-a5a534383_devops-micro-internship-dmi-by-pravin-activity-7430653572142448640-h74b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU
 ```
 
 ---
@@ -227,7 +237,22 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 0 in DevOps: Laying the Groundwork
+As part of the FREE DevOps for Beginners Cohort by Pravin Mishra, I successfully completed all Week 0 tasks, focusing on building a strong foundation in DevOps and core internet concepts. Here’s a breakdown of what I worked on:
+Task 1: ChatGPT & Internet Fundamentals
+I explored how ChatGPT can support DevOps workflows, from explaining technical concepts to assisting with automation scripts and troubleshooting. I also strengthened my understanding of internet fundamentals, including how data moves across networks and the roles of IP addressing and DNS in global communication.
+Task 2: Internet & Networking Deep Dive
+I analyzed how a user in one country can access a website hosted in another. This helped me clearly understand packet switching, IP addressing, TCP/IP communication, and HTTP/HTTPS protocols and how they work together to power global connectivity.
+Task 3: Application Architecture & Technology Stack
+I compared two-tier and three-tier architectures using a bookstore example. I examined how frontend, backend, and database layers interact, and reviewed common technologies such as React and Angular (frontend), Node.js and Django (backend), and MySQL and MongoDB (database). This strengthened my understanding of scalable and structured application design.
+Task 4: Domain Names & DNS Basics
+I studied how DNS translates domain names into IP addresses, enabling users to access websites using simple, human-friendly URLs instead of complex numerical addresses. This reinforced my understanding of how domain resolution supports web accessibility.
+Task 5: Visual Studio Code Setup (Hands-On)
+I configured Visual Studio Code for DevOps practice, optimizing my environment with essential settings and tools. I documented my setup with a screenshot, showing my preferred theme and an active terminal session running commands, marking the start of my practical DevOps workflow.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist https://lnkd.in/ds5cUvWB
+
+#DevOps #Internship
 
 ---
 
@@ -235,19 +260,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Prompting Chatgpt for solutions
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Drawing the two tier and three tier diagram
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will be more dedicated and focused
 
 ---
 
