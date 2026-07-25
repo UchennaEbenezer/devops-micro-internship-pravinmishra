@@ -132,7 +132,7 @@ Week 04 → Git & GitHub
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | 🔄 In Progress | ⏳ Pending | [Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-cloudcomputing-aws-share-7478532356598046721-X-8F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-cloud-engineering-student-to-devops-leader-the-journey-of-ebenezer-ndubuisi-a007ee51b01c)
  |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/enX4W2yg | https://medium.com/@uchennaebenezer01/reflection-week-2-learning-to-think-beyond-prompts-b365c180a1b8 |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | [Ebenezer-Ndubuisi](https://lnkd.in/p/enX4W2yg) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/reflection-week-2-learning-to-think-beyond-prompts-b365c180a1b8) |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | — | — |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
 | 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
