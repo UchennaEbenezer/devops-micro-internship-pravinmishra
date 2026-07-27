@@ -20,13 +20,13 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S1.PNG)
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S2.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S3.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S4.PNG)
 
 ---
 
@@ -68,13 +68,13 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S5.PNG)
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S6.PNG)
 
 ---
 
@@ -88,13 +88,13 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S7.PNG)
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S8.PNG)
 
 ---
 
@@ -108,25 +108,25 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S9.PNG)
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S10.PNG)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S11.PNG)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S12.PNG)
 
 ---
 
@@ -140,19 +140,19 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S13.PNG)
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S14.PNG)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S15.PNG)
 
 ---
 
@@ -185,12 +185,12 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
-- [ ] `index.html` and `style.css` created and populated (Screenshots 3–4)
-- [ ] Starter files staged and committed in the first commit (Screenshots 5–8)
-- [ ] Student Name and Group Name updated in `index.html` (Screenshot 9)
-- [ ] Second controlled commit created (Screenshots 10–12)
-- [ ] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
+- [✅] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
+- [✅] `index.html` and `style.css` created and populated (Screenshots 3–4)
+- [✅] Starter files staged and committed in the first commit (Screenshots 5–8)
+- [✅] Student Name and Group Name updated in `index.html` (Screenshot 9)
+- [✅] Second controlled commit created (Screenshots 10–12)
+- [✅] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
 - [ ] LinkedIn post published and URL submitted
 - [ ] No sensitive data exposed
 
