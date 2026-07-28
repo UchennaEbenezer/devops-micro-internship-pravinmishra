@@ -127,7 +127,7 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-## A variable is a name for a value that can be utilized in the script at a later time. For instance, we may use a variable to save and show a person's name as needed.
+A variable is a name for a value that can be utilized in the script at a later time. For instance, we may use a variable to save and show a person's name as needed.
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
@@ -173,15 +173,15 @@ In Bash, an array is a data structure that can hold several values in a single v
 
 **2. Why are arrays useful in scripts?**
 
-## It enables us group related values together using arrays. We can keep all of the tools in a single array and process them using a loop rather than making a different variable for each tool. As a result, the script is shorter and simpler to update.
+It enables us group related values together using arrays. We can keep all of the tools in a single array and process them using a loop rather than making a different variable for each tool. As a result, the script is shorter and simpler to update.
 
 **3. What does `"${tools[@]}"` mean?**
 
-## All of the values kept within the tools array are represented by "[tools[@]"). Every tool in the array is made accessible to the loop in this script.
+All of the values kept within the tools array are represented by "[tools[@]"). Every tool in the array is made accessible to the loop in this script.
 
 **4. What is the purpose of the `for` loop in this script?**
 
-## A for loop checks every item in the tools array. Each time it runs, it puts the current item into the tool variable and shows it on the screen.
+A for loop checks every item in the tools array. Each time it runs, it puts the current item into the tool variable and shows it on the screen.
 
 # Task 5 — Loops: Number Counter Script
 
@@ -214,7 +214,10 @@ A loop is used for the reptition of multiple tasks. We can write the same comman
 
 **2. Why do we use loops in Bash scripting?**
 
-## Loops are used to automate repetitive processes. They reduce the length of our scripts and prevent us from repeatedly writing the same commands.
+Loops are used to automate repetitive processes. They reduce the length of our scripts and prevent us from repeatedly writing the same commands.
+
+---
+
 
 **3. How many times did the loop run in your script?**
 
@@ -407,13 +410,13 @@ It checks the necessary directory and file using if-else conditionals with -d an
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinkedIn Post](https://www.linkedin.com/posts/ebenezer-ndubuisi_dmibypravinmishra-agenticai-devops-share-7487611557267308544-cVh8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-05/S22.PNG)
 
 ---
 

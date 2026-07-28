@@ -148,13 +148,12 @@ Verify the React application is publicly accessible via the server's public IP.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
+[LinkedIn Post](https://www.linkedin.com/posts/ebenezer-ndubuisi_dmibypravinmishra-agenticai-devops-activity-7487590148109594624-Dkwo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+![aws](./screenshots/assignment-02/S11.PNG)
 
 ---
 

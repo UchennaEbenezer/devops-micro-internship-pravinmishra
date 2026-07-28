@@ -392,13 +392,13 @@ To avoid overspending, remove security flaws, and lessen your environmental impa
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinkedIn Post](https://www.linkedin.com/posts/ebenezer-ndubuisi_dmibypravinmishra-agenticai-devops-share-7487589160657121280-ANSB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![aws](./screenshots/assignment-03/S23.PNG)
 
 ---
 

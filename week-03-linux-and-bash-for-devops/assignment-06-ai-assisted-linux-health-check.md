@@ -520,13 +520,13 @@ I gave the AI skill permission to read the report, run the Bash script, and desc
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinkedIn Post](https://www.linkedin.com/posts/ebenezer-ndubuisi_when-i-first-started-working-with-linux-share-7487620670126809089-I1Uv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S20.PNG)
 
 ---
 
@@ -534,7 +534,7 @@ Add your screenshot here.
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+[GitHub](https://github.com/UchennaEbenezer/devops-micro-internship-pravinmishra.git)
 
 ---
 
