@@ -174,13 +174,14 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
-
 ![aws](./screenshots/assignment-03/S11.PNG)
+
+---
 
 #### Screenshot 2 — Output of `free -h`
 
 ![aws](./screenshots/assignment-03/S12.PNG)
+
 ---
 
 #### Screenshot 3 — Output of `df -h`
@@ -192,6 +193,7 @@ Add your screenshot here.
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
 ![aws](./screenshots/assignment-03/S14.PNG)
+
 ---
 
 ### Notes
@@ -221,16 +223,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
 ![aws](./screenshots/assignment-03/S15.PNG)
+
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
 ![aws](./screenshots/assignment-03/S16.PNG)
+
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
 ![aws](./screenshots/assignment-03/S17.PNG)
+
 ---
 
 ### Notes
@@ -259,6 +264,7 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
 ![aws](./screenshots/assignment-03/S18.PNG)
+
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
@@ -270,6 +276,7 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
 ![aws](./screenshots/assignment-03/S20.PNG)
+
 ---
 
 ### Notes
