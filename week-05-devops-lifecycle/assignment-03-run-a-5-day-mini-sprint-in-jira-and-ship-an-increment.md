@@ -166,7 +166,7 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 Paste your unlisted YouTube or accessible Google Drive demo-video link here:
 
-`Add your URL here`
+[Demo Video Link](https://drive.google.com/file/d/1Xn5uR6cFL9Cy5CSUmwVNXNaB8j72bK7g/view?usp=sharing)
 
 ---
 
@@ -182,13 +182,13 @@ Publish a LinkedIn post about your five-day mini-Sprint, including your GitHub r
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinkedIn Post](https://lnkd.in/p/dD7VH3ZD)
 
 ---
 
 #### LinkedIn Screenshot 1 — Published LinkedIn post showing the post content and at least one required link or proof image
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-03/S18.PNG)
 
 ---
 

@@ -212,13 +212,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinkedIn Post](https://lnkd.in/p/dXxqVrXa)
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S14.PNG)
 
 ---
 
