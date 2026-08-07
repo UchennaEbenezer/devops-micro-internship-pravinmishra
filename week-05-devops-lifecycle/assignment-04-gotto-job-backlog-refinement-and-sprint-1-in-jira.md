@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S1.PNG)
 
 ---
 
@@ -28,7 +28,15 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+Mode: Individual Mode. To be honest, it was a one-person exercise because I played all four roles myself.
+
+Product Owner: Before making any estimates, I arranged the backlog according to value rather than work. Because a visitor who cannot identify an appropriate job never gets far enough to care whether the site seems genuine, discoverability was valued higher than trust. Thus, footer trust signals and form labeling followed after the search call-to-action, the number of results, and the content of the job card.
+
+Scrum Master: I maintained the sprint's integrity and the exercise's time limit. Not six at eleven, but three stories at four points. Additionally, I kept the sprint scope fixed once it had begun, which is the easiest guideline to violate when no one else would be around.
+
+Dev Lead: I only increased the text on the main search button and the hero header. UI only; no data or backend. The smallest alteration that still provides what the top-ranked Story describes.
+
+DevOps Lead: Using a different Nginx location and a different directory outside of /var/www/html, I deployed the Gotto Job template to the same EC2 instance that was already hosting my portfolio website. Because the portfolio deploy script clears its own webroot on each run and would have otherwise erased this website, that separation was crucial.
 
 ---
 
@@ -42,7 +50,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S2.PNG)
 
 ---
 
@@ -56,7 +64,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S3.PNG)
 
 ---
 
@@ -70,13 +78,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S4.PNG)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S5.PNG)
 
 ---
 
@@ -90,7 +98,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S6.PNG)
 
 ---
 
@@ -98,7 +106,23 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+S1-Hero tagline (1 point): This is a simple task that only needs one heading to be changed.
+
+S2-Button color (1 point): The button color is the only thing that needs to be changed. Since it affects several buttons, I briefly thought about giving it two points, but since it's only a straightforward CSS modification, I decided to keep it at one.
+
+S3-Job card typography (2 points): This calls for adjusting the font's weight and size before making sure the arrangement remains accurate across a range of screen sizes.
+
+S4-REMOTE badge (2 points): This is a little more complicated than a straightforward text modification since it entails creating a new badge and only displaying it for remote jobs.
+
+S5-Posted on date (1 point): This is a straightforward text addition devoid of any additional reasoning.
+
+S6-Search labels (2 points): It takes more work than a single text change because many labels and placeholders must be updated and tested.
+
+S7: "Apply Now" Button for Job Details (1 Point): adds a single "Apply Now" button that connects to a placeholder URL or email address. It is estimated at one point because it is a straightforward modification without any extra reasoning.
+
+S7 – Job Detail "Apply Now" Button (1 Point): adds a single "Apply Now" button that connects to a placeholder URL or email address. It is estimated at one point because it is a straightforward modification without any extra reasoning.
+
+S8: Trust Links in the Footer (1 Point): "About" and "Contact" are two new footer links. This is rated at one point because it only needs a minor HTML update and has no complicated functionality.
 
 ---
 
@@ -112,13 +136,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S7.PNG)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S8.PNG)
 
 ---
 
@@ -132,7 +156,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S9.PNG)
 
 ---
 
@@ -146,19 +170,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S10.PNG)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S11.PNG)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S12.PNG)
 
 ---
 
@@ -172,7 +196,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-04/S13.PNG)
 
 ---
 
@@ -208,18 +232,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Team Mode or Solo Mode selected and all four roles documented (Screenshot 1 & Notes)
-- [ ] Task 2: Team-managed Scrum project created with the required name (Screenshot 2)
-- [ ] Task 3: UI improvement Epic created (Screenshot 3)
-- [ ] Task 4: 6–8 Stories added under the Epic and ranked by value (Screenshots 4 & 5)
-- [ ] Task 5: Story Points set (1, 2, or 3) with reasoning recorded (Screenshot 6 & Notes)
-- [ ] Task 6: Sprint 1 created with Sprint Goal, 3–4 Stories, and Sub-tasks (Screenshots 7 & 8)
-- [ ] Task 7: Burndown Chart opened (Screenshot 9)
-- [ ] Task 8: One UI-only increment implemented, committed, deployed, and verified (Screenshots 10–12)
-- [ ] Task 9: Retro comment with one Scrum pillar and one Scrum value (Screenshot 13)
-- [ ] Task 10: Mandatory LinkedIn post published with the live URL, backlog refinement, Sprint planning, one shipped increment, proof, and Screenshot 14
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Team Mode or Solo Mode selected and all four roles documented (Screenshot 1 & Notes)
+- [✅] Task 2: Team-managed Scrum project created with the required name (Screenshot 2)
+- [✅] Task 3: UI improvement Epic created (Screenshot 3)
+- [✅] Task 4: 6–8 Stories added under the Epic and ranked by value (Screenshots 4 & 5)
+- [✅] Task 5: Story Points set (1, 2, or 3) with reasoning recorded (Screenshot 6 & Notes)
+- [✅] Task 6: Sprint 1 created with Sprint Goal, 3–4 Stories, and Sub-tasks (Screenshots 7 & 8)
+- [✅] Task 7: Burndown Chart opened (Screenshot 9)
+- [✅] Task 8: One UI-only increment implemented, committed, deployed, and verified (Screenshots 10–12)
+- [✅] Task 9: Retro comment with one Scrum pillar and one Scrum value (Screenshot 13)
+- [✅] Task 10: Mandatory LinkedIn post published with the live URL, backlog refinement, Sprint planning, one shipped increment, proof, and Screenshot 14
+- [✅] Full Name visible in required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
