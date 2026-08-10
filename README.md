@@ -136,7 +136,7 @@ Week 05 → DevOps Lifecycle & Agile
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | [Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_dmibypravinmishra-agenticai-devops-ugcPost-7487667841463255042-E7PC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/week-3-reflection-from-deploying-applications-to-understanding-systems-02714b4a6fbb) |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | [Ebenezer-Ndubuisi](https://www.linkedin.com/posts/ebenezer-ndubuisi_dmibypravinmishra-agenticai-git-share-7487719532497637376-mBo6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/week-4-reflection-learning-that-great-devops-starts-with-great-version-control-1fcf8814469b) |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | [Ebenezer-Ndubuisi](https://lnkd.in/p/dXxqVrXa) | [Ebenezer-Ndubuisi](https://medium.com/@uchennaebenezer01/from-backlog-to-deployment-what-week-5-taught-me-about-devops-a7eacaedef7a) |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | 🔄 In Progress | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
