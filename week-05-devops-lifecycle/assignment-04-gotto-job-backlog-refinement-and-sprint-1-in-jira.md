@@ -212,7 +212,7 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-[LinkedIn Post](https://lnkd.in/p/dXxqVrXa)
+[LinkedIn Post](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-jira-aws-activity-7491311683219652609-Tawc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 

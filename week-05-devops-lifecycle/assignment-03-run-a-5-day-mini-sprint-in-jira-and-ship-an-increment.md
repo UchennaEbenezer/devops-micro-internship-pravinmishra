@@ -182,7 +182,7 @@ Publish a LinkedIn post about your five-day mini-Sprint, including your GitHub r
 
 Paste your LinkedIn post URL here:
 
-[LinkedIn Post](https://lnkd.in/p/dD7VH3ZD)
+[LinkedIn Post](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-agile-scrum-activity-7491319929519005696-ITv9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
