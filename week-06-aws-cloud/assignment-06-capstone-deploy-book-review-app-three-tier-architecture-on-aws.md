@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![dmi](./screenshots/assignment-06/S1.PNG)
 
 ---
 
@@ -34,13 +34,27 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+eu-north-1
 
 ---
 
 **Services:**
 
-Write your answer here.
+Amazon VPC
+
+EC2
+
+Application Load Balancer
+
+Amazon RDS for MySQL
+
+Route Tables
+
+Internet Gateway
+
+Nat Gateway 
+
+Security Groups
 
 ---
 
@@ -56,7 +70,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+[ALB DNS name](http://Book-Review-Web-ALB-16108434.eu-north-1.elb.amazonaws.com)
 
 ---
 
@@ -70,37 +84,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S2.PNG)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S3.PNG)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S4.PNG)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S5.PNG)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S6.PNG)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S7.PNG)
 
 ---
 
@@ -114,19 +128,37 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+The Book Review App was successfully deployed in a three-tier AWS architecture. The custom VPC and six-subnet architecture partitioned the Web, App, and Database tiers across two Availability Zones. I deployed the Web Tier on EC2 with Nginx serving the Next.js application on port 80 behind a public Application Load Balancer (ALB). The App Tier was deployed privately, with the Node.js/Express backend running on port 3001 behind an internal Application Load Balancer. I deployed Amazon RDS for MySQL in the private Database Tier with Multi-AZ for high availability and a read replica for read scaling. Traffic flow and Security Group isolation between the different tiers was also implemented as required.
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+App Tier target showed an unhealthy status: After attaching Book-Review-App-EC2 to Book-Review-App-TG, the target was initially reported as unhealthy. The Node.js application was verified to be running and listening on port 3001 using ss and curl, so the issue was narrowed down to the Application Load Balancer health-check configuration and connectivity to the App Tier.
+
+Internal ALB and App Tier port configuration required clarification: The App Tier was configured to run Node.js on port 3001, while the internal ALB listener was configured on port 80 and the target group on port 3001. This was reviewed to ensure the listener, target group, backend process, and Security Group rules remained consistent with the assignment's required App Tier port of 3001.
+
+Security Group traffic flow required troubleshooting: The Security Group configuration was reviewed to ensure that traffic between the Web Tier, internal ALB, App Tier, and Database Tier followed the required tier-to-tier access model rather than exposing the private App or Database tiers publicly.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+AWS Documentation: Used as a reference for AWS networking, load balancing, Security Groups, EC2, and RDS configuration.
+
+AWS Management Console: Used to create, configure, and validate the VPC, subnets, route tables, Security Groups, EC2 instances, Application Load Balancers, Target Groups, and Amazon RDS.
+
+ChatGPT: Used to research architecture decisions, troubleshoot deployment issues, analyze errors, and validate configuration choices.
+
+Linux/Ubuntu Terminal: Used to manage the EC2 instances and verify application services, ports, and connectivity.
+
+Nginx: Used to serve the Next.js frontend on the Web Tier.
+
+Node.js/Express: Used to run and test the backend application on port 3001.
+
+Google: Used to research technical issues and compare troubleshooting approaches where necessary.
+
+Book Review App source code: Used as the application codebase for the frontend and backend deployment
 
 ---
 
@@ -142,7 +174,7 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinkedIn post]()
 
 ---
 
@@ -161,14 +193,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Architecture diagram completed
-- [ ] Task 2: AWS Region and services documented
-- [ ] Task 3: Public ALB DNS confirmed working
-- [ ] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
-- [ ] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
-- [ ] LinkedIn post published and URL submitted
-- [ ] App Tier and Database Tier confirmed not publicly accessible
-- [ ] No sensitive data exposed
+- [✅] Task 1: Architecture diagram completed
+- [✅] Task 2: AWS Region and services documented
+- [✅] Task 3: Public ALB DNS confirmed working
+- [✅] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
+- [✅] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
+- [✅] LinkedIn post published and URL submitted
+- [✅] App Tier and Database Tier confirmed not publicly accessible
+- [✅] No sensitive data exposed
 
 ---
 
