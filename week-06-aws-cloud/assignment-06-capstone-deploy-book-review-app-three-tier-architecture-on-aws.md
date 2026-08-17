@@ -172,15 +172,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-[LinkedIn post]()
+[LinkedIn post](https://www.linkedin.com/posts/ebenezer-ndubuisi_devops-aws-cloudengineering-activity-7495240107537608704-7nEp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-06/S8.PNG)
 
 ---
 

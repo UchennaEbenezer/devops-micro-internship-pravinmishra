@@ -291,15 +291,13 @@ Suggested tags:
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-[LinkedIn post]()
+[LinkedIn post](https://www.linkedin.com/posts/ebenezer-ndubuisi_aws-cloudsecurity-devops-activity-7495244976356904960-ASAA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 #### Screenshot of Published LinkedIn Post
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-07/S14.PNG)
 
 ---
 

@@ -266,15 +266,13 @@ Publish a LinkedIn post about the high-availability build, including the ALB URL
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-[LinkedIn post]()
+[LinkedIn post](https://www.linkedin.com/posts/ebenezer-ndubuisi_aws-cloudengineering-devops-activity-7495234915131822082-nZPV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF6Vv-YBpareXxzEoePT2MVfT83U98JRzVU)
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-05/S24.PNG)
 
 ---
 
