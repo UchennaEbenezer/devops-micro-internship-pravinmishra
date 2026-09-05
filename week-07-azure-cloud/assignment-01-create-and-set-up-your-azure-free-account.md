@@ -30,13 +30,13 @@ Sign in to the Azure Portal, locate key services (Resource Groups, Virtual Machi
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-01/S1.PNG)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-01/S2.PNG)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+In order to replicate our secure multi-tier networking and database layer, I intend to investigate Azure Virtual Network (VNet) and Azure SQL Database before moving our infrastructure from AWS to Azure. Using built-in capabilities like Network Security Groups, VNets will make it simple for me to lay out our current public and private subnet architecture. Simultaneously, Azure SQL Database offers a fully managed, scalable relational environment that replicates our AWS RDS methodology, guaranteeing little friction throughout schema setup and data migration.
 
 ---
 
@@ -57,12 +57,12 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Azure Free Account created with identity, phone, and payment verification completed
-- [ ] Microsoft Agreement and Offer Terms accepted
-- [ ] Azure Portal accessed successfully (Screenshot 1)
-- [ ] Free Trial subscription confirmed (Screenshot 2)
-- [ ] Reflection paragraph written (Notes)
-- [ ] No sensitive information exposed
+- [✅] Azure Free Account created with identity, phone, and payment verification completed
+- [✅] Microsoft Agreement and Offer Terms accepted
+- [✅] Azure Portal accessed successfully (Screenshot 1)
+- [✅] Free Trial subscription confirmed (Screenshot 2)
+- [✅] Reflection paragraph written (Notes)
+- [✅] No sensitive information exposed
 
 ---
 

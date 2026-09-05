@@ -20,7 +20,7 @@ Create the Azure Resource Group `react-app-rg` in a region close to you.
 
 #### Screenshot 1 — Resource Group overview showing the name and region
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S1.PNG)
 
 ---
 
@@ -34,13 +34,13 @@ Create an Ubuntu 20.04 LTS VM (size B1s) with a Network Security Group allowing 
 
 #### Screenshot 2 — Azure VM overview page showing the VM name, Resource Group, and region
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S2.PNG)
 
 ---
 
 #### Screenshot 3 — Network Security Group inbound rules showing ports 22 and 80 allowed
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S3.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ Connect to the VM over SSH and confirm the Linux prompt is visible.
 
 #### Screenshot 4 — Terminal showing a successful SSH login with the prompt visible
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S4.PNG)
 
 ---
 
@@ -68,7 +68,7 @@ Update Ubuntu and install Git, Node.js, and npm.
 
 #### Screenshot 5 — Terminal output showing `node -v` and `npm -v`
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S5.PNG)
 
 ---
 
@@ -82,7 +82,7 @@ Clone `my-react-app`, install dependencies, and run `npm run build` to produce t
 
 #### Screenshot 6 — Terminal showing successful `npm run build` completion and `ls -la build` output
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S6.PNG)
 
 ---
 
@@ -96,13 +96,13 @@ Install Nginx and configure it to serve the `build/` directory with `try_files $
 
 #### Screenshot 7 — Successful `sudo nginx -t` output
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S7.PNG)
 
 ---
 
 #### Screenshot 8 — Nginx configuration snippet showing the build root and `try_files` directive
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S8.PNG)
 
 ---
 
@@ -116,7 +116,7 @@ Confirm the React app loads through the VM's public IP, navigation works, and a 
 
 #### Screenshot 9 — Browser showing the React app with the public IP visible in the address bar
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S9.PNG)
 
 ---
 
@@ -130,7 +130,7 @@ Restrict the SSH Network Security Group rule to your IP if not already restricte
 
 #### Screenshot 10 (optional) — Network Security Group rule showing SSH restricted to your IP
 
-Add your screenshot here.
+![dmi](./screenshots/assignment-02/S10.PNG)
 
 ---
 
@@ -143,15 +143,15 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Resource Group created (Screenshot 1)
-- [ ] Task 2: Ubuntu VM provisioned with correct NSG rules (Screenshots 2 & 3)
-- [ ] Task 3: SSH access verified (Screenshot 4)
-- [ ] Task 4: Git, Node.js, and npm installed (Screenshot 5)
-- [ ] Task 5: React app built successfully (Screenshot 6)
-- [ ] Task 6: Nginx configured with SPA routing support (Screenshots 7 & 8)
-- [ ] Task 7: App verified via the VM public IP, including route refresh (Screenshot 9)
-- [ ] Task 8: SSH hardening applied (Screenshot 10, optional)
-- [ ] No sensitive data exposed
+- [✅] Task 1: Resource Group created (Screenshot 1)
+- [✅] Task 2: Ubuntu VM provisioned with correct NSG rules (Screenshots 2 & 3)
+- [✅] Task 3: SSH access verified (Screenshot 4)
+- [✅] Task 4: Git, Node.js, and npm installed (Screenshot 5)
+- [✅] Task 5: React app built successfully (Screenshot 6)
+- [✅] Task 6: Nginx configured with SPA routing support (Screenshots 7 & 8)
+- [✅] Task 7: App verified via the VM public IP, including route refresh (Screenshot 9)
+- [✅] Task 8: SSH hardening applied (Screenshot 10, optional)
+- [✅] No sensitive data exposed
 
 ---
 
